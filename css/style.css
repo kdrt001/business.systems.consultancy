@@ -1102,6 +1102,7 @@ button { cursor: pointer; font-family: inherit; }
     gap: 48px;
     padding-bottom: 48px;
     border-bottom: 1px solid rgba(255,255,255,0.1);
+    align-items: start;
 }
 .footer-logo-wrap { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }
 .footer-logo { height: 52px; width: 52px; border-radius: 50%; object-fit: cover; }
